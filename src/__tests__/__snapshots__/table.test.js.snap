@@ -1,0 +1,657 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table component should match snapshot 1`] = `
+<div
+  className="ant-table-wrapper"
+  style={
+    Object {
+      "margin": "0 3rem 3rem",
+    }
+  }
+>
+  <div
+    className="ant-spin-nested-loading"
+  >
+    <div
+      className="ant-spin-container"
+    >
+      <div
+        className="ant-table"
+        data-testid="table"
+      >
+        <div
+          className="ant-table-container"
+        >
+          <div
+            className="ant-table-content"
+            onScroll={[Function]}
+            style={Object {}}
+          >
+            <table
+              style={
+                Object {
+                  "tableLayout": "auto",
+                }
+              }
+            >
+              <colgroup />
+              <thead
+                className="ant-table-thead"
+              >
+                <tr>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Number
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Name
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Date
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Sku
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Weight
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Height
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Width
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Origin
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Minimun
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Delay
+                  </th>
+                </tr>
+              </thead>
+              <tbody
+                className="ant-table-tbody"
+              >
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key={1}
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    001003
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Green pencil
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2020-10-10
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    229
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0.02kg
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    20cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Singapore
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    100
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    30 days
+                  </td>
+                </tr>
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key={2}
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    001004
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Red pencil
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2020-10-10
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    243
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0.02kg
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    20cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Singapore
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    100
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    30 days
+                  </td>
+                </tr>
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key={3}
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    004673
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Ruler
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2020-10-20
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    331
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0.03kg
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    30cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    3cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    China
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    50
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    30 days
+                  </td>
+                </tr>
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key={4}
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    004033
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Notepad
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2020-03-11
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    211
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0.04kg
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    30cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    12cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    China
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    70
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    20 days
+                  </td>
+                </tr>
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key={5}
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    002212
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Big Calendar
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2020-12-16
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    322
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0.04kg
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    50cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    70cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Taiwan
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    100
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    10 days
+                  </td>
+                </tr>
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key={6}
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    002214
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Small Calendar
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2020-12-17
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    322
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0.04kg
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    40cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    50cm
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    Taiwan
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    100
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    12 days
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

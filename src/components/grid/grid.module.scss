@@ -1,0 +1,11 @@
+.column {
+  margin-bottom: 2rem;
+  padding: 0 0.5rem;
+
+  .card {
+    [class="ant-card-body"] {
+      display: flex;
+      justify-content: center;
+    }
+  }
+}

@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Info component should match snapshot 1`] = `
+<div
+  className="sc-bdnylx dbMgVy"
+  data-testid="wrapper"
+>
+  <span
+    className="ant-avatar ant-avatar-circle ant-avatar-image"
+    style={
+      Object {
+        "boxShadow": "1.5px 1.5px 8px #1890ff",
+        "fontSize": 18,
+        "height": 150,
+        "lineHeight": "150px",
+        "width": 150,
+      }
+    }
+  >
+    <img
+      onError={[Function]}
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxFpTe7cagDqaHfvNXlMJaKj8wVhFI77ITbw&usqp=CAU"
+    />
+  </span>
+  <div
+    className="ant-descriptions"
+    style={
+      Object {
+        "marginLeft": "2rem",
+        "maxHeight": "5rem",
+        "maxWidth": "30rem",
+      }
+    }
+  >
+    <div
+      className="ant-descriptions-header"
+    >
+      <div
+        className="ant-descriptions-title"
+      >
+        User Info
+      </div>
+    </div>
+    <div
+      className="ant-descriptions-view"
+    >
+      <table>
+        <tbody>
+          <tr
+            className="ant-descriptions-row"
+          >
+            <th
+              className="ant-descriptions-item"
+              colSpan={1}
+            >
+              <div
+                className="ant-descriptions-item-container"
+              >
+                <span
+                  className="ant-descriptions-item-label"
+                >
+                  UserName
+                </span>
+              </div>
+            </th>
+            <th
+              className="ant-descriptions-item"
+              colSpan={1}
+            >
+              <div
+                className="ant-descriptions-item-container"
+              >
+                <span
+                  className="ant-descriptions-item-label"
+                >
+                  Telephone
+                </span>
+              </div>
+            </th>
+            <th
+              className="ant-descriptions-item"
+              colSpan={1}
+            >
+              <div
+                className="ant-descriptions-item-container"
+              >
+                <span
+                  className="ant-descriptions-item-label"
+                >
+                  Live
+                </span>
+              </div>
+            </th>
+          </tr>
+          <tr
+            className="ant-descriptions-row"
+          >
+            <td
+              className="ant-descriptions-item"
+              colSpan={1}
+            >
+              <div
+                className="ant-descriptions-item-container"
+              >
+                <span
+                  className="ant-descriptions-item-content"
+                >
+                  Nicolas Batalla
+                </span>
+              </div>
+            </td>
+            <td
+              className="ant-descriptions-item"
+              colSpan={1}
+            >
+              <div
+                className="ant-descriptions-item-container"
+              >
+                <span
+                  className="ant-descriptions-item-content"
+                >
+                  1810000000
+                </span>
+              </div>
+            </td>
+            <td
+              className="ant-descriptions-item"
+              colSpan={1}
+            >
+              <div
+                className="ant-descriptions-item-container"
+              >
+                <span
+                  className="ant-descriptions-item-content"
+                >
+                  Montevideo, Uruguay
+                </span>
+              </div>
+            </td>
+          </tr>
+          <tr
+            className="ant-descriptions-row"
+          >
+            <th
+              className="ant-descriptions-item"
+              colSpan={3}
+            >
+              <div
+                className="ant-descriptions-item-container"
+              >
+                <span
+                  className="ant-descriptions-item-label"
+                >
+                  Address
+                </span>
+              </div>
+            </th>
+          </tr>
+          <tr
+            className="ant-descriptions-row"
+          >
+            <td
+              className="ant-descriptions-item"
+              colSpan={3}
+            >
+              <div
+                className="ant-descriptions-item-container"
+              >
+                <span
+                  className="ant-descriptions-item-content"
+                >
+                  av 3N # 3 an 80
+                </span>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  ,
+</div>
+`;
